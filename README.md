@@ -22,23 +22,26 @@ I am an aspiring Data Analyst passionate about turning raw data into meaningful 
 
 ### Microsoft Excel
 
-- Coffee Shop Sales Dashboard *(Coming Soon)*
+- https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Coffee-Shop-Sales-Dashboard
+
+
+- https://github.com/01Yusufh/data-analysis-portfolio/tree/main/Excel/Personal-Finance-Analysis
 
 ### SQL
 
-- Coming Soon
+- Projects in Progress
 
 ### Python
 
-- Coming Soon
+- Projects in Progress
 
 ### Power BI
 
-- Coming Soon
+- Projects in Progress
 
 ### Tableau
 
-- Coming Soon
+- Projects in Progress
 
 ## Skills
 
