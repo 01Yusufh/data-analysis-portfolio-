@@ -61,6 +61,9 @@ Individuals often struggle to track their finances and identify spending pattern
 - Dashboard Screenshots
 
 ---
+## Dashboard Preview
+
+![Personal_Finance_Dashboard](Dashboard.png)
 
 ## 👤 Author
 
