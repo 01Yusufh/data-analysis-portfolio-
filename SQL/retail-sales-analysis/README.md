@@ -111,19 +111,19 @@ Compared total sales across cities.
 
 ### Top Selling Products
 
-![Top Selling Products](Screenshots/top-products.png)
+![Top Selling Products](result-screenshots/top-products.png)
 
 ### Best Customers
  
-![Best Customers](Screenshots/best-customers.png)
+![Best Customers](result-screenshots/best-customers.png)
 
 ### Monthly Revenue
 
-![Monthly Revenue](Screenshots/monthly-revenue.png)
+![Monthly Revenue](result-screenshots/monthly-revenue.png)
 
 ### Best Performing Cities
 
-![Best Performing Cities](Screenshots/best-cities.png)
+![Best Performing Cities](result-screenshots/best-cities.png)
 
 
 ---
