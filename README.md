@@ -4,11 +4,11 @@ Welcome to my Data Analysis Portfolio!
 
 This repository showcases my hands-on projects in:
 
-- 📊 Microsoft Excel
-- 🐍 Python
-- 🗄️ SQL
-- 📈 Power BI
-- 📉 Tableau
+- 📊 microsoft excel
+- 🐍 python
+- 🗄️ sql
+- 📈 power bi
+- 📉 tableau
 
 ## About Me
 
@@ -16,30 +16,30 @@ I am an aspiring Data Analyst passionate about turning raw data into meaningful 
 
 ## Projects
 
-### Microsoft Excel
-- [Coffee Shop Sales Dashboard](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Coffee-Shop-Sales-Dashboard)
-- [Personal Finance Dashboard](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Personal-Finance-Analysis)
+### microsoft excel
+- [coffee shop sales dashboard](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Coffee-Shop-Sales-Dashboard)
+- [personal finance dashboard](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Personal-Finance-Analysis)
 
-### SQL
+### sql
+- [retail-sales-analysis](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/SQL/retail-sales-analysis)
+
+### python
 - Projects in Progress
 
-### Python
+### power bi
 - Projects in Progress
 
-### Power BI
-- Projects in Progress
-
-### Tableau
+### tableau
 - Projects in Progress
 
 ## Skills
 
-- Microsoft Excel
-- SQL
-- Python
-- Power BI
-- Tableau
-- Data Cleaning
-- Data Visualization
+- microsoft excel
+- sql
+- python
+- power bi
+- tableau
+- data cleaning
+- data Visualization
 
 Thank you for visiting my portfolio!
