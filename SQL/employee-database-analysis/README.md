@@ -180,7 +180,20 @@ employee-database-analysis/
 5. Review the screenshots to compare the query outputs and analyses.
 
 ---
+## 📸 Sample Outputs
 
+### Total Employees
+
+![Total Employees](screenshots/01_total_employees.png)
+
+### Average Salary by Department
+
+![Average Salary by Department](screenshots/06_average_salary_by_department.png)
+
+### Gender Pay Gap Analysis
+
+![Gender Pay Gap](screenshots/17_gender_pay_gap.png)
+---
 ## 👤 Author
 
 **Hudu Yusuf Ibrahim**
