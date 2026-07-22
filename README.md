@@ -17,11 +17,12 @@ I am an aspiring Data Analyst passionate about turning raw data into meaningful 
 ## Projects
 
 ### microsoft excel
-- [coffee shop sales dashboard](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Coffee-Shop-Sales-Dashboard)
-- [personal finance dashboard](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Personal-Finance-Analysis)
+- [coffee-shop-sales-dashboard](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Coffee-Shop-Sales-Dashboard)
+- [personal-finance-dashboard](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Personal-Finance-Analysis)
 
 ### sql
 - [retail-sales-analysis](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/SQL/retail-sales-analysis)
+- [employee-database-analysis] https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/SQL/employee-database-analysis)
 
 ### python
 - Projects in Progress
