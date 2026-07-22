@@ -22,7 +22,7 @@ I am an aspiring Data Analyst passionate about turning raw data into meaningful 
 
 ### sql
 - [retail-sales-analysis](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/SQL/retail-sales-analysis)
-- [employee-database-analysis] (https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/SQL/employee-database-analysis)
+- [employee-database-analysis](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/SQL/employee-database-analysis)
 
 ### python
 - Projects in Progress
