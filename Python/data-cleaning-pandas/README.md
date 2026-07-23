@@ -92,7 +92,7 @@ The following data cleaning tasks were performed:
 ## 📊 Key Findings
 
 - No missing values were found in the dataset.
-- No duplicate records required removal.If duplicates had been detected, they would have been dropped using df.drop_duplicates() after confirming they weren't legitimate repeat transactions.
+- No duplicate records required removal. If duplicates had been detected, they would have been dropped using df.drop_duplicates() after confirming they weren't legitimate repeat transactions.
 - Data types were reviewed and confirmed to match their expected formats (e.g., dates as datetime, sales figures as numeric).
 - The cleaned dataset was successfully exported for future analysis.
 
@@ -151,5 +151,5 @@ This project demonstrates a complete data cleaning workflow using Python and Pan
 
 Aspiring Data Analyst
 
-GitHub: https://github.com/01Yusufh
-**LinkedIn:** https://www.linkedin.com/in/hudu-yusuf-ibrahim-ba06b5365
+- **GitHub: https://github.com/01Yusufh
+- **LinkedIn:** https://www.linkedin.com/in/hudu-yusuf-ibrahim-ba06b5365
