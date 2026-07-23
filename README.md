@@ -25,7 +25,7 @@ I am an aspiring Data Analyst passionate about turning raw data into meaningful 
 - [employee-database-analysis](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/SQL/employee-database-analysis)
 
 ### python
-- Projects in Progress
+- [data-cleaning-pandas](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Python/data-cleaning-pandas)
 
 ### power bi
 - Projects in Progress
