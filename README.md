@@ -26,6 +26,7 @@ I am an aspiring Data Analyst passionate about turning raw data into meaningful 
 
 ### python
 - [data-cleaning-pandas](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Python/data-cleaning-pandas)
+- [eda-superstore-analysis](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Python/eda-superstore-analysis)
 
 ### power bi
 - Projects in Progress
