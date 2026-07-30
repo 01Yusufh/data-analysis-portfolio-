@@ -81,7 +81,7 @@ The dataset contains customer information including:
 
 
 ![Main Dashboard](screenshots/dashboard-overview.png)
-
+---
 
 ### Filtered Dashboard
 
