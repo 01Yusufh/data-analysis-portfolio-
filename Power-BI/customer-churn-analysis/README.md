@@ -80,13 +80,13 @@ The dataset contains customer information including:
 ### Main Dashboard
 
 ```
-screenshots/dashboard-overview.png
+![Main Dashboard](screenshots/dashboard-overview.png)
 ```
 
 ### Filtered Dashboard
 
 ```
-screenshots/dashboard-filtered.png
+[Filtered Dashboard](screenshots/dashboard-filtered.png)
 ```
 
 ---
