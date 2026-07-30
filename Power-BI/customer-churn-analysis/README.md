@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis Dashboard (Power BI)
+# 📊 Customer Churn Analysis Dashboard 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![Dataset](https://img.shields.io/badge/Dataset-Telco%20Customer%20Churn-blue)
@@ -79,15 +79,15 @@ The dataset contains customer information including:
 
 ### Main Dashboard
 
-```
+
 ![Main Dashboard](screenshots/dashboard-overview.png)
-```
+
 
 ### Filtered Dashboard
 
-```
+
 ![Filtered Dashboard](screenshots/dashboard-filtered.png)
-```
+
 
 ---
 
