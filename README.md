@@ -29,7 +29,7 @@ I am an aspiring Data Analyst passionate about turning raw data into meaningful 
 - [eda-superstore-analysis](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Python/eda-superstore-analysis)
 
 ### power bi
-- Projects in Progress
+- [customer-churn-analysis](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Power-BI/customer-churn-analysis)
 
 ### tableau
 - Projects in Progress
