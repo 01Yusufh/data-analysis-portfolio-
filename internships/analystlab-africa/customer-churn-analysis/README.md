@@ -219,6 +219,7 @@ customer-churn-analysis/
 │
 └── screenshots/
     ├── churn-by-contract.png
+    ├── churn-by-payment-method.png
     ├── customer-tenure-distribution.png
     ├── monthly-charges-distribution.png
     ├── monthly-charges-by-churn.png
