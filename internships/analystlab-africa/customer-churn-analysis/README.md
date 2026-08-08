@@ -124,12 +124,14 @@ The analysis included the following visualisations:
 ### 1. Contract Type
 
 Month-to-Month customers recorded the highest churn rate at **42.7%**, compared with **11.3%** for One-Year contracts and **2.8%** for Two-Year contracts.
+![Churn by Contract Type](screenshots/churn-by-contract.png)
 
 This indicates a strong association between contract duration and customer retention.
 
 ---
 
 ### 2. Payment Method
+
 
 Customers using **Electronic Check** recorded the highest churn rate among payment methods at **45.3%**.
 
@@ -232,17 +234,15 @@ customer-churn-analysis/
     ├── online-security.png
     ├── tech-support.png
     ├── online-backup.png
-    ├── device-protection.png
+    ├── device-pro9" alt="image" src="https://github.com/user-attachments/assets/597d61c2-3d22-4386-b72e-034b0a7db4c0" />
+
     └── churn-by-tenure.png
+    
 
 ---
 
 ## 👨‍💻 Author
-
-**Hudu Yusuf Ibrahim**
-
-Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau
-
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/hudu-yusuf-ibrahim-ba06b5365/)
-
+Hudu Yusuf Ibrahim Data Analyst Intern, AnalystLab Africa
+ GitHub:[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudu-yusuf-ibrahim-ba06b5365/)
+[![GitHub](https://img.shields.io/badge/GitHub-01Yusufh-181717?style=flat&logo=github&logoColor=white)](https://github.com/01Yusufh)
 
