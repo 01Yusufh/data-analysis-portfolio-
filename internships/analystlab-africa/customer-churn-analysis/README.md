@@ -1,3 +1,123 @@
+# Customer Churn Analysis Using Python
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-lightblue)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+## 📌 Project Overview
+
+Customer churn is an important business challenge for subscription-based companies because losing customers can reduce recurring revenue and increase customer acquisition costs.
+
+This project analyses the **Telco Customer Churn dataset** using Python to identify customer segments associated with higher churn and develop data-driven recommendations for improving customer retention.
+
+The project covers the analytical process from dataset inspection and cleaning to exploratory data analysis and business recommendations.
+
+---
+
+## 🎯 Business Problem
+
+The company needs to understand which customer characteristics and behaviours are associated with churn.
+
+Without identifying high-risk customer segments, management may find it difficult to develop targeted and effective retention strategies.
+
+---
+
+## ❓ Business Questions
+
+The analysis answers the following questions:
+
+1. What does the customer base look like?
+2. Which segments have the highest churn?
+3. Does contract type influence retention?
+4. Does tenure affect loyalty?
+5. Which services influence churn?
+6. Which payment methods have higher churn?
+7. What actions should management take?
+
+---
+
+## 📊 Dataset
+
+The Telco Customer Churn dataset contains:
+
+- **7,043 customer records**
+- **21 variables**
+- **Target variable:** Churn
+
+The dataset includes information about:
+
+- Customer demographics
+- Tenure
+- Contract type
+- Internet service
+- Online security
+- Tech support
+- Online backup
+- Device protection
+- Payment method
+- Monthly charges
+- Total charges
+- Churn status
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Python**
+- **Pandas** – Data manipulation and analysis
+- **NumPy** – Numerical operations
+- **Matplotlib** – Data visualization
+- **Seaborn** – Statistical visualization
+- **Jupyter Notebook** – Analysis environment
+- **GitHub** – Project documentation and version control
+
+---
+
+## 🔍 Data Preparation
+
+The dataset was inspected and prepared before performing the analysis.
+
+Key steps included:
+
+- Inspecting the dataset structure
+- Checking data types
+- Checking missing values
+- Checking duplicate records
+- Converting `TotalCharges` to a numeric data type
+- Handling invalid records
+- Resetting the DataFrame index
+- Validating numerical and categorical variables
+
+---
+
+## 📈 Exploratory Data Analysis
+
+The analysis included the following visualisations:
+
+### Customer Analysis
+
+- Customer Tenure Distribution
+- Monthly Charges Distribution
+- Monthly Charges by Churn
+- Correlation Heatmap
+
+### Service Analysis
+
+- Internet Service
+- Online Security
+- Tech Support
+- Online Backup
+- Device Protection
+
+### Churn Analysis
+
+- Churn by Tenure
+- Churn by Contract
+- Churn by Payment Method
+
+---
 ## 💡 Key Findings
 
 ### 1. Contract Type
@@ -79,6 +199,7 @@ Churn was more concentrated among customers with shorter tenures, while longer-t
 ## 📁 Project Structure
 
 ```text
+```text
 customer-churn-analysis/
 │
 ├── README.md
@@ -97,7 +218,18 @@ customer-churn-analysis/
 │   └── customer_churn_analysis.pptx
 │
 └── screenshots/
-    └── churn-by-contract.png
+    ├── churn-by-contract.png
+    ├── customer-tenure-distribution.png
+    ├── monthly-charges-distribution.png
+    ├── monthly-charges-by-churn.png
+    ├── correlation-heatmap.png
+    ├── internet-service.png
+    ├── online-security.png
+    ├── tech-support.png
+    ├── online-backup.png
+    ├── device-protection.png
+    └── churn-by-tenure.png
+
 
 ---
 
@@ -111,5 +243,5 @@ Aspiring Data Analyst with experience in Python, SQL, Excel, Power BI, and Table
 
 ### 🔗 Connect With Me
 
-- **GitHub:** [github.com/01Yusufh](https://github.com/01Yusufh)
-- **LinkedIn:** [linkedin.com/in/hudu-yusuf-ibrahim-ba06b5365](https://www.linkedin.com/in/hudu-yusuf-ibrahim-ba06b5365)
+- [GitHub](https://github.com/01Yusufh)
+- [LinkedIn](https://www.linkedin.com/in/hudu-yusuf-ibrahim-ba06b5365)
