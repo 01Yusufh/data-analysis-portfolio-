@@ -182,9 +182,7 @@ This project helped me strengthen my understanding of:
 
 ## 🙏 Acknowledgements
 
-This project was completed as part of my **Data Analytics learning journey** to strengthen my Power BI, data visualization, and business intelligence skills through customer churn analysis.
-
-The project provided practical experience in data preparation, DAX calculations, interactive dashboard design, and business insight generation using Microsoft Power BI.
+This project was completed as part of my internship at Saiket Systems, as part of my ongoing Data Analytics learning journey. It gave me hands-on experience with data preparation, DAX calculations, interactive dashboard design, and translating raw data into business insights using Microsoft Power BI.
 
 ---
 
