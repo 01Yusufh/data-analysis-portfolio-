@@ -288,11 +288,10 @@ superstore-sales-profit-dashboard/
 │
 └── README.md
 ---
-
 ## 👤 Author
 
 **Hudu Yusuf Ibrahim**
 
-🔗 **LinkedIn:** [linkedin.com/in/hudu-yusuf-ibrahim-ba06b5365](https://www.linkedin.com/in/hudu-yusuf-ibrahim-ba06b5365)
+🔗 **LinkedIn:** [Hudu Yusuf Ibrahim](https://www.linkedin.com/in/hudu-yusuf-ibrahim-ba06b5365)
 
-💻 **GitHub:** [github.com/01Yusufh](https://github.com/01Yusufh)
+💻 **GitHub:** [Hudu Yusuf Ibrahim](https://github.com/01Yusufh)
