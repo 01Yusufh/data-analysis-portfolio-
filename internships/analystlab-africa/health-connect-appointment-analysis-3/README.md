@@ -280,7 +280,6 @@ This Week 6 submission includes:
 
 **Hudu Yusuf Ibrahim**
 
-**Data Analytics Track — HC Pod 8**
 
 ### Connect With Me
 
