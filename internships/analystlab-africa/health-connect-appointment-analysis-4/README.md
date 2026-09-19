@@ -1,7 +1,7 @@
 # HealthConnect — Week 7: Testing, Refinement & Validation
 
 **HealthConnect Experience Lab — Data Analytics Track**
-**HC-POD 8**
+
 **Prepared by:** Hudu Yusuf Ibrahim 
 
 ---
