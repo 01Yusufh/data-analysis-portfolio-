@@ -15,28 +15,28 @@ AnalystLab Africa is a remote data analytics internship where interns get a new 
 ## Projects
 
 ### Week 1
-- [customer-churn-analysis](./week-1-project-folder)
+- [customer-churn-analysis](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/internships/analystlab-africa/customer-churn-analysis)
 
 ### Week 2
-- [superstore-sales-dashboard-1](./week-2-project-folder)
+- [superstore-sales-profit-dashboard-1](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/internships/analystlab-africa/superstore-sales-profit-dashboard)
 
 ### Week 3
-- [superstore-sales-dashboard-2](./week-3-project-folder)
+- [superstore-sales-profit-dashboard-2](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/internships/analystlab-africa/superstore-sales-profit-dashboard-2)
 
 ### Week 4
-- [health-connect-appointment-analysis-1](./week-4-project-folder)
+- [health-connect-appointment-analysis-1](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/internships/analystlab-africa/healthconnect-appointment-analysis)
 
 ### Week 5
-- [health-connect-appointment-analysis](./health-connect-appointment-analysis)
+- [health-connect-appointment-analysis-2](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/internships/analystlab-africa/healthConnect-appointment-analysis-2)
 
 ### Week 6
-- [project-name-week-6](./week-6-project-folder)
+- [health-connect-appointment-analysis-3](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/internships/analystlab-africa/health-connect-appointment-analysis-3)
 
 ### Week 7
-- [project-name-week-7](./week-7-project-folder)
+- [health-connect-appointment-analysis-4](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/internships/analystlab-africa/health-connect-appointment-analysis-4)
 
 ### Week 8
-- [project-name-week-8](./week-8-project-folder)
+- [health-connect-appointment-analysis-5](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/internships/analystlab-africa/health-connect-appointment-analysis-5)
 
 ## What I Took Away
 
