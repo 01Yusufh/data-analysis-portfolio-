@@ -32,7 +32,7 @@ I am an aspiring Data Analyst passionate about turning raw data into meaningful 
 - [customer-churn-analysis](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/internships/saiket-systems/customer-churn-analysis)
 
 ### tableau
-- Projects in Progress
+- [new-york-city-airbnb-market-analysis-1](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Tableau/airbnb-dashboard-1)
 
 ## Skills
 
