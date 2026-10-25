@@ -16,6 +16,9 @@ I am an aspiring Data Analyst passionate about turning raw data into meaningful 
 
 ## Projects
 
+### internships
+- [analyst-lab-africa](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/internships)
+
 ### microsoft excel
 - [coffee shop sales dashboard](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Coffee-Shop-Sales-Dashboard)
 - [personal finance dashboard](https://github.com/01Yusufh/data-analysis-portfolio-/tree/main/Excel/Personal-Finance-Analysis)
